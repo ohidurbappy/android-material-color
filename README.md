@@ -28,12 +28,17 @@ Copy(download) the **material-colors.xml** file from the repository and paste it
 - md_brown
 - md_grey
 - md_blue_grey
-
+## Ecample colors in xml
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/color-1.PNG)
+
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/color-2.PNG)
+
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/red.PNG)
+
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/green.PNG)
+
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/blue.PNG)
+
 ## Naming Convention
 The naming convention of the color resources are easy to remember. It either starts with a standard color name or it has a naming like : **md_classname_intensityValue** where classname are like **red,green** and intensity may be **50,100,200,300** and so on.
 
