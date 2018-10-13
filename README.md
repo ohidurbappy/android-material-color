@@ -28,7 +28,7 @@ Copy(download) the **material-colors.xml** file from the repository and paste it
 - md_brown
 - md_grey
 - md_blue_grey
-## Ecample colors in xml
+## Example colors in xml
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/color-1.PNG)
 
 ![enter image description here](https://raw.githubusercontent.com/ohidurbappy/android-material-color/master/color-2.PNG)
